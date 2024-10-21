@@ -18,7 +18,8 @@
 
 </div>
     
-<div style= "display: flex; justtify-content: center; gap: 10px;">
+<div style= "display: flex; justtify-content: center; gap: 10px">
+    
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abusayed0ne&theme=2077)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abusayed0ne&theme=2077)
