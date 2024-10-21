@@ -17,6 +17,16 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abusayed0ne&theme=2077)
 
 </div>
+<table>
+    <tr>
+        <td>
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abusayed0ne&theme=2077" />
+        </td>
+        <td>
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abusayed0ne&theme=2077" />
+        </td>
+    </tr>
+</table>
     
 <div style= "display: flex; justtify-content: center; gap: 10px">
     
