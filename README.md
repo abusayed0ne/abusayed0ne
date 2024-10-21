@@ -12,14 +12,11 @@
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-
+<div>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abusayed0ne&theme=2077)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abusayed0ne&theme=2077)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abusayed0ne&theme=2077)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abusayed0ne&theme=2077)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abusayed0ne&theme=2077&utcOffset=8)
+</div>
 
