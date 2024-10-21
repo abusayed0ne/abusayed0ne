@@ -16,7 +16,9 @@
     
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abusayed0ne&theme=2077)
 
-</div>
+</div > 
+
+<div align="center">
 <table>
     <tr>
         <td>
@@ -27,18 +29,24 @@
         </td>
     </tr>
 </table>
-    
-<div style= "display: flex; justtify-content: center; gap: 10px">
-    
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abusayed0ne&theme=2077)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abusayed0ne&theme=2077)
+</div>
+<div align="center">
+    <table>
+    <tr>
+        <td>
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abusayed0ne&theme=2077" />
+        </td>
+        <td>
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abusayed0ne&theme=2077&utcOffset=8" />
+        </td>
+    </tr>
+</table>
 
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abusayed0ne&theme=2077)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abusayed0ne&theme=2077&utcOffset=8)
+
+
 
 
 
